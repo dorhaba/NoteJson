@@ -1,0 +1,66 @@
+{
+  "note": [
+    {
+      "id": 2,
+      "noteName": "קניות",
+      "todos": [
+        {
+          "todoId": 0,
+          "title": "בשר",
+          "completed": true
+        },
+        {
+          "todoId": 1,
+          "title": "דגים",
+          "completed": true
+        },
+        {
+          "todoId": 2,
+          "title": "פירות",
+          "completed": true
+        },
+        {
+          "todoId": 3,
+          "title": "ירקות",
+          "completed": true
+        }
+      ],
+      "dateCreated": "2020-04-23T14:27:03.752Z",
+      "lastUpdated": "2020-04-23T14:27:03.752Z",
+      "openList": true
+    },
+    {
+      "id": 3,
+      "noteName": "משימות",
+      "todos": [
+        {
+          "todoId": 0,
+          "title": "לעשות שיעורי בית",
+          "completed": false
+        }
+      ],
+      "dateCreated": "2020-04-23T14:27:09.101Z",
+      "lastUpdated": "2020-04-23T14:27:09.101Z",
+      "openList": true
+    },
+    {
+      "id": 4,
+      "noteName": "ניקיון",
+      "todos": [
+        {
+          "todoId": 0,
+          "title": "לנקות שירותים",
+          "completed": true
+        },
+        {
+          "todoId": 1,
+          "title": "לנקות את הסלון",
+          "completed": false
+        }
+      ],
+      "dateCreated": "2020-04-23T14:28:05.359Z",
+      "lastUpdated": "2020-04-23T14:28:05.359Z",
+      "openList": true
+    }
+  ]
+}
